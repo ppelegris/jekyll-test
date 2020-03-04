@@ -10,7 +10,7 @@ permalink: /
 ## Available Pages:
 
 -   [Research and Development](Research_and_Development) ![](assets/images/icons/contenttypes/home_page_16.png){width="16" height="16"}
-    -   [Development Resources](Development_Resources)
+    -   [Development Resources](Development Resources)
         -   [Books](Books)
 
         <!-- -->
