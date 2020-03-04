@@ -2,7 +2,7 @@
 title: Development Tools
 parent: Development Resources
 has_children: true
-permalink: /docs/Development_Resources/Development_Tools
+#permalink: /docs/Development_Resources/Development_Tools
 nav_order: 2
 ---
 

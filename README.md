@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+Jekyll Notes
+============
 
-You can use the [editor on GitHub](https://github.com/ppelegris/jekyll-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Main config via _config.yml
 
-### Markdown
+You can set default in main config
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*The file front matter takes precendence over the file !!!*
 
-```markdown
-Syntax highlighted code block
+defaults:
+  -
+    scope:
+      path: "" # empty string means all files in path
+    values:
+      layout: "default"
+      author: "UReason"
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+##Front Matter
+---
+layout: <points to layout dir>
+permalink: <controls url> 
+published: <set to false to prevent is from publishing>
+    * you can run jekyll with --unpunlished to view unpublished pages
+<var>: <value>
+    * set a variable e.g. project: focus - use => {{page.focus}}
+<description>: <text>
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ppelegris/jekyll-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Attribute | Description                                                  |
+| --------- | ------------------------------------------------------------ |
+| Name      | The Name of the Property                                     |
+| Type      | The value type of the property. When edited provides a dropdown allowing you to select string, integer, number or boolean. |
+| Default   | The default value of the Property. This is the value assigned to the property when a new instance is created. |
+| T         | T is short for Transient. Transient properties are typically values that do not need to be persisted with the project/application definition files. In the example above the Speed value, provided by your data source, will change over time so it does not need to be stored in the definition files. Note that non-transient properties are written to disk when they change, so this may cause unnecessary load to your system. Only use non-transient properties for static values that need to be persisted when APM is reloaded. |
+| H         | H is short for History. When the H value is set to True the system will retain History on the property value for instances for the number of History Point configured in HPoints. History is required for example when you want to display graphs of values. |
+| HPoints   | The number of HistoryPoints to store in memory when H is set to True. |

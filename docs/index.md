@@ -9,92 +9,92 @@ permalink: /
 
 ## Available Pages:
 
--   [Research and Development](Research_and_Development) ![](assets/images/icons/contenttypes/home_page_16.png){width="16" height="16"}
-    -   [Development Resources](Development Resources)
-        -   [Books](Books)
+-   [Research and Development](/) ![](assets/images/icons/contenttypes/home_page_16.png)
+    -   [Development Resources](Development_Resources/Development_Resources)
+        -   [Books](Development_Resources/Books)
 
         <!-- -->
 
-        -   [Development Tools](Development_Tools)
-            -   [Building UReason Products](Building_UReason_Products)
-                -   [Building UReason Platform, Products and Add-ins in a Development Sandbox](Building_UReason_Platform_Products_and_Add-ins_in_a_Development_Sandbox)
+        -   [Development Tools](Development_Resources/Development_Tools/Development_Tools)
+            -   [Building UReason Products](Development_Resources/Development_Tools/Building_UReason_Products/Building_UReason_Products)
+                -   [Building UReason Platform, Products and Add-ins in a Development Sandbox](Development_Resources/Development_Tools/Building_UReason_Products/Building_UReason_Platform_Products_and_Add-ins_in_a_Development_Sandbox)
 
                 <!-- -->
 
-                -   [Creating Installer Resources and Configuration Files for a new UReason Product](Creating_Installer_Resources_and_Configuration_Files_for_a_new_UReason_Product)
+                -   [Creating Installer Resources and Configuration Files for a new UReason Product](Development_Resources/Development_Tools/Building_UReason_Products/Creating_Installer_Resources_and_Configuration_Files_for_a_new_UReason_Product)
 
                 <!-- -->
 
-                -   [Updating the ZKM Obfuscation Name Map](Updating_the_ZKM_Obfuscation_Name_Map)
+                -   [Updating the ZKM Obfuscation Name Map](Development_Resources/Development_Tools/Building_UReason_Products/Updating_the_ZKM_Obfuscation_Name_Map)
 
             <!-- -->
 
-            -   [IntelliJ IDEA](IntelliJ_IDEA)
-                -   [UReason Plugins for IntelliJ IDEA](UReason_Plugins_for_IntelliJ_IDEA)
+            -   [IntelliJ IDEA](Development_Resources/Development_Tools/IntelliJ_IDEA/IntelliJ_IDEA)
+                -   [UReason Plugins for IntelliJ IDEA](Development_Resources/Development_Tools/IntelliJ_IDEA/UReason_Plugins_for_IntelliJ_IDEA)
 
             <!-- -->
 
-            -   [Using the UReason Maven Repository](Using_the_UReason_Maven_Repository)
+            -   [Using the UReason Maven Repository](Development_Tools/Using_the_UReason_Maven_Repository)
 
         <!-- -->
 
-        -   [External Articles](External_Articles)
+        -   [External Articles](Development_Resources/External_Articles)
 
         <!-- -->
 
-        -   [Software Configuration Management](Software_Configuration_Management)
-            -   [Creating a new Git repository with the content of an existing branch](Creating_a_new_Git_repository_with_the_content_of_an_existing_branch)
+        -   [Software Configuration Management](Development_Resources/Software_Configuration_Management/Software_Configuration_Management)
+            -   [Creating a new Git repository with the content of an existing branch](Development_Resources/Software_Configuration_Management/Creating_a_new_Git_repository_with_the_content_of_an_existing_branch)
 
             <!-- -->
 
-            -   [Getting Started with Git](Getting_Started_with_Git)
+            -   [Getting Started with Git](Development_Resources/Software_Configuration_Management/Getting_Started_with_Git)
 
             <!-- -->
 
-            -   [Git Best Practice](Git_Best_Practice)
+            -   [Git Best Practice](Development_Resources/Software_Configuration_Management/Git_Best_Practice)
 
             <!-- -->
 
-            -   [Git FAQ](Git_FAQ)
+            -   [Git FAQ](Development_Resources/Software_Configuration_Management/Git_FAQ)
 
             <!-- -->
 
-            -   [Introduction to Git](Introduction_to_Git)
+            -   [Introduction to Git](Development_Resources/Software_Configuration_Management/Introduction_to_Git)
 
             <!-- -->
 
-            -   [Rebasing a pushed git branch from its original starting commit onto a commit on another branch](Rebasing_a_pushed_git_branch_from_its_original_starting_commit_onto_a_commit_on_another_branch)
+            -   [Rebasing a pushed git branch from its original starting commit onto a commit on another branch](Development_Resources/Software_Configuration_Management/Rebasing_a_pushed_git_branch_from_its_original_starting_commit_onto_a_commit_on_another_branch)
 
         <!-- -->
 
-        -   [USE Platform Developer Documentation](USE_Platform_Developer_Documentation)
-            -   [Web Module](Web_Module)
-                -   [ZK Configuration](ZK_Configuration)
+        -   [USE Platform Developer Documentation](Development_Resources/USE_Platform_Developer_Documentation/USE_Platform_Developer_Documentation)
+            -   [Web Module](Development_Resources/USE_Platform_Developer_Documentation/Web_Module)
+                -   [ZK Configuration](Development_Resources/USE_Platform_Developer_Documentation/ZK_Configuration)
 
         <!-- -->
 
-        -   [USE Platform Training](USE_Platform_Training)
-            -   [Client Framework Overview](Client_Framework_Overview)
+        -   [USE Platform Training](Development_Resources/USE_Platform_Training/USE_Platform_Training)
+            -   [Client Framework Overview](Development_Resources/USE_Platform_Training/Client_Framework_Overview)
 
             <!-- -->
 
-            -   [Thick Client Overview](Thick_Client_Overview)
+            -   [Thick Client Overview](Development_Resources/USE_Platform_Training/Thick_Client_Overview)
 
             <!-- -->
 
-            -   [Thin Client Overview](Thin_Client_Overview)
+            -   [Thin Client Overview](Development_Resources/USE_Platform_Training/Thin_Client_Overview)
 
             <!-- -->
 
-            -   [Building Custom Data Definitions and Client Components](Building_Custom_Data_Definitions_and_Client_Components)
+            -   [Building Custom Data Definitions and Client Components](Development_Resources/USE_Platform_Training/Building_Custom_Data_Definitions_and_Client_Components)
 
             <!-- -->
 
-            -   [Visual Modelling Component Overview](Visual_Modelling_Component_Overview)
+            -   [Visual Modelling Component Overview](Development_Resources/USE_Platform_Training/Visual_Modelling_Component_Overview)
 
             <!-- -->
 
-            -   [Visual Modelling Component API Practical Example](Visual_Modelling_Component_API_Practical_Example)
+            -   [Visual Modelling Component API Practical Example](Development_Resources/USE_Platform_Training/Visual_Modelling_Component_API_Practical_Example)
 
     <!-- -->
 
