@@ -1,4 +1,14 @@
 remote_theme: pmarsceill/just-the-docs
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+logo: "/assets/ur-logo-small.png"
+
+aux_links:
+  "UReason Website":
+    - "https://ureason.com"
+
 defaults:
   -
     scope:
