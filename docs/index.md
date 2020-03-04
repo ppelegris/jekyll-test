@@ -16,7 +16,7 @@ permalink: /
         <!-- -->
 
         -   [Development Tools](Development_Resources/Development_Tools/Development_Tools)
-            -   [Building UReason Products](Development_Resources/Development_Tools/Building_UReason_Products/Building_UReason_Products)
+            -   [Building UReason Products](Development_Resources/Development_Tools/Building_UReason_Products/Building_UReason_Products.md)
                 -   [Building UReason Platform, Products and Add-ins in a Development Sandbox](Development_Resources/Development_Tools/Building_UReason_Products/Building_UReason_Platform_Products_and_Add-ins_in_a_Development_Sandbox)
 
                 <!-- -->
@@ -29,7 +29,7 @@ permalink: /
 
             <!-- -->
 
-            -   [IntelliJ IDEA](Development_Resources/Development_Tools/IntelliJ_IDEA/IntelliJ_IDEA)
+            -   [IntelliJ IDEA](Development_Resources/Development_Tools/IntelliJ_IDEA/IntelliJ_IDEA.md)
                 -   [UReason Plugins for IntelliJ IDEA](Development_Resources/Development_Tools/IntelliJ_IDEA/UReason_Plugins_for_IntelliJ_IDEA)
 
             <!-- -->
